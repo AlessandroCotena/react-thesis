@@ -12,8 +12,11 @@ Keep in mind that this project, as it is only a prototype, does have bugs/securi
 ## Installation
 
 After setting up a local copy of the project, install the dependencies using the command:
-### npm install
+
+`npm install`
 
 Then, run the project using the command:
-### npm run startFull
+
+`npm run startFull`
+
 which will execute both React and Node.
